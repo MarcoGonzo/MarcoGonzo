@@ -3,6 +3,8 @@
 
 <p align="left">I'm passionate about exploring new IT solutions and technologies, constantly striving to stay ahead of the curve.</p>
 
+![banner](Banner.png)
+
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/marcogonzalezochoa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcogonzalezochoa" height="30" width="40" /></a>
