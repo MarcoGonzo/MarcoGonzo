@@ -1,16 +1,28 @@
 <h1 align="center">Hi there! 👋 I'm Marco González</h1>
-<h3 align="center">Network and Cybersecurity Support Technician</h3>
+<h3 align="center">Network Systems and Cybersecurity Support Technician</h3>
 
-<p align="left">I'm passionate about exploring new IT solutions and technologies, constantly striving to stay ahead of the curve.</p>
+<br>
+
+I'm passionate about exploring new IT solutions and technologies, constantly striving to stay ahead of the curve.
+
+Currently pursuing studies in Computer Systems, Networks, and Cybersecurity, I am committed to acquiring both theoretical knowledge and practical skills essential for thriving in the dynamic field of technology.
+
+In parallel with my technical pursuits, I am fascinated by the intricate workings of the financial industry. Exploring concepts such as market analysis, investment strategies, and financial technologies fuels my curiosity and expands my understanding of global economic dynamics.
+
+<br>
 
 ![banner](Banner.png)
 
-<h3 align="left">🔗 Connect with me:</h3>
+<br>
+
+<h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/marcogonzalezochoa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcogonzalezochoa" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">📜 Certificates:</h3>
+<br>
+
+<h3 align="left">📜 Certificates</h3>
 <p align="left">
   <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="Certificación 1" height="75" />
   <img src="https://images.credly.com/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/twitter_thumb_201604_image.png" alt="Certificación 1" height="75" />
